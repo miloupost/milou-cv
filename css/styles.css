@@ -5,6 +5,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
 /* Styles for the body */
 
 body {
@@ -58,5 +62,13 @@ body {
   font-style: normal;
 }
 
+.roboto {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 110;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
 	
 
